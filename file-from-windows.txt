@@ -1,3 +1,6 @@
 
 hello from winodws
 
+
+install mysql client:
+sudo apt-get -y -f install mysql-client
